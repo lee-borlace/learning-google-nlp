@@ -1,0 +1,76 @@
+﻿{
+  [
+    {
+      "text": { "content": "I" },
+      "partOfSpeech": {
+        "tag": "PRON",
+        "case": "NOMINATIVE",
+        "number": "SINGULAR",
+        "person": "FIRST"
+      },
+      "dependencyEdge": {
+        "headTokenIndex": 1,
+        "label": "NSUBJ"
+      },
+      "lemma": "I"
+    },
+    {
+      "text": {
+        "content": "am",
+        "beginOffset": 2
+      },
+      "partOfSpeech": {
+        "tag": "VERB",
+        "mood": "INDICATIVE",
+        "number": "SINGULAR",
+        "person": "FIRST",
+        "tense": "PRESENT"
+      },
+      "dependencyEdge": {
+        "headTokenIndex": 1,
+        "label": "ROOT"
+      },
+      "lemma": "be"
+    },
+    {
+      "text": {
+        "content": "hungrier",
+        "beginOffset": 5
+      },
+      "partOfSpeech": { "tag": "ADJ" },
+      "dependencyEdge": {
+        "headTokenIndex": 1,
+        "label": "ACOMP"
+      },
+      "lemma": "hungry"
+    },
+    {
+      "text": {
+        "content": "than",
+        "beginOffset": 14
+      },
+      "partOfSpeech": { "tag": "ADP" },
+      "dependencyEdge": {
+        "headTokenIndex": 2,
+        "label": "PREP"
+      },
+      "lemma": "than"
+    },
+    {
+      "text": {
+        "content": "you",
+        "beginOffset": 19
+      },
+      "partOfSpeech": {
+        "tag": "PRON",
+        "case": "ACCUSATIVE",
+        "person": "SECOND"
+      },
+      "dependencyEdge": {
+        "headTokenIndex": 3,
+        "label": "POBJ"
+      },
+      "lemma": "you"
+    }
+  ]
+}

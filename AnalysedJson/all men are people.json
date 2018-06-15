@@ -1,0 +1,57 @@
+﻿[
+  {
+    "text": { "content": "all" },
+    "partOfSpeech": { "tag": "DET" },
+    "dependencyEdge": {
+      "headTokenIndex": 1,
+      "label": "DET"
+    },
+    "lemma": "all"
+  },
+  {
+    "text": {
+      "content": "men",
+      "beginOffset": 4
+    },
+    "partOfSpeech": {
+      "tag": "NOUN",
+      "number": "PLURAL"
+    },
+    "dependencyEdge": {
+      "headTokenIndex": 2,
+      "label": "NSUBJ"
+    },
+    "lemma": "man"
+  },
+  {
+    "text": {
+      "content": "are",
+      "beginOffset": 8
+    },
+    "partOfSpeech": {
+      "tag": "VERB",
+      "mood": "INDICATIVE",
+      "tense": "PRESENT"
+    },
+    "dependencyEdge": {
+      "headTokenIndex": 2,
+      "label": "ROOT"
+    },
+    "lemma": "be"
+  },
+  {
+    "text": {
+      "content": "people",
+      "beginOffset": 12
+    },
+    "partOfSpeech": {
+      "tag": "NOUN",
+      "number": "PLURAL"
+    },
+    "dependencyEdge": {
+      "headTokenIndex": 2,
+      "label": "ATTR"
+    },
+    "lemma": "person"
+  }
+]

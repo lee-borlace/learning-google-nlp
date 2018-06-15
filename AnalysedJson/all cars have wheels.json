@@ -1,0 +1,57 @@
+﻿[
+  {
+    "text": { "content": "all" },
+    "partOfSpeech": { "tag": "DET" },
+    "dependencyEdge": {
+      "headTokenIndex": 1,
+      "label": "DET"
+    },
+    "lemma": "all"
+  },
+  {
+    "text": {
+      "content": "cars",
+      "beginOffset": 4
+    },
+    "partOfSpeech": {
+      "tag": "NOUN",
+      "number": "PLURAL"
+    },
+    "dependencyEdge": {
+      "headTokenIndex": 2,
+      "label": "NSUBJ"
+    },
+    "lemma": "car"
+  },
+  {
+    "text": {
+      "content": "have",
+      "beginOffset": 9
+    },
+    "partOfSpeech": {
+      "tag": "VERB",
+      "mood": "INDICATIVE",
+      "tense": "PRESENT"
+    },
+    "dependencyEdge": {
+      "headTokenIndex": 2,
+      "label": "ROOT"
+    },
+    "lemma": "have"
+  },
+  {
+    "text": {
+      "content": "wheels",
+      "beginOffset": 14
+    },
+    "partOfSpeech": {
+      "tag": "NOUN",
+      "number": "PLURAL"
+    },
+    "dependencyEdge": {
+      "headTokenIndex": 2,
+      "label": "DOBJ"
+    },
+    "lemma": "wheel"
+  }
+]

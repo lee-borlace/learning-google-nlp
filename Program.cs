@@ -7,21 +7,24 @@ namespace GoogleNLP
     {
         static void Main(string[] args)
         {
-            // The text to analyze.
-            //string text = "the dog chased the cat";
-            string text = "the man hungrily ate the delicious hamburger with a fork";
-
             var client = LanguageServiceClient.Create();
 
-            var document = new Document()
+            while (true)
             {
-                Content = text,
-                Type = Document.Types.Type.PlainText
-            };
+                Console.Write("Input>");
 
-            var response = client.AnalyzeSyntax(document);
+                var text = Console.ReadLine();
 
+                var document = new Document()
+                {
+                    Content = text,
+                    Type = Document.Types.Type.PlainText
+                };
 
+                var response = client.AnalyzeSyntax(document);
+
+                Console.WriteLine(response.Tokens);
+            }
 
 
         }
