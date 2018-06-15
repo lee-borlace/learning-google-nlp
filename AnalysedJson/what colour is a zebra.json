@@ -1,0 +1,71 @@
+[
+  {
+    "text": { "content": "what" },
+    "partOfSpeech": { "tag": "DET" },
+    "dependencyEdge": {
+      "headTokenIndex": 1,
+      "label": "DET"
+    },
+    "lemma": "what"
+  },
+  {
+    "text": {
+      "content": "colour",
+      "beginOffset": 5
+    },
+    "partOfSpeech": {
+      "tag": "NOUN",
+      "number": "SINGULAR"
+    },
+    "dependencyEdge": {
+      "headTokenIndex": 2,
+      "label": "ATTR"
+    },
+    "lemma": "colour"
+  },
+  {
+    "text": {
+      "content": "is",
+      "beginOffset": 12
+    },
+    "partOfSpeech": {
+      "tag": "VERB",
+      "mood": "INDICATIVE",
+      "number": "SINGULAR",
+      "person": "THIRD",
+      "tense": "PRESENT"
+    },
+    "dependencyEdge": {
+      "headTokenIndex": 2,
+      "label": "ROOT"
+    },
+    "lemma": "be"
+  },
+  {
+    "text": {
+      "content": "a",
+      "beginOffset": 15
+    },
+    "partOfSpeech": { "tag": "DET" },
+    "dependencyEdge": {
+      "headTokenIndex": 4,
+      "label": "DET"
+    },
+    "lemma": "a"
+  },
+  {
+    "text": {
+      "content": "zebra",
+      "beginOffset": 17
+    },
+    "partOfSpeech": {
+      "tag": "NOUN",
+      "number": "SINGULAR"
+    },
+    "dependencyEdge": {
+      "headTokenIndex": 2,
+      "label": "NSUBJ"
+    },
+    "lemma": "zebra"
+  }
+]

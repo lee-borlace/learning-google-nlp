@@ -20,3 +20,14 @@ C:\Users\lborlace\Documents\GitHub\learning-google-nlp\obj\Debug\netcoreapp2.0\G
 C:\Users\lborlace\Documents\GitHub\learning-google-nlp\obj\Debug\netcoreapp2.0\GoogleNLP.AssemblyInfo.cs
 C:\Users\lborlace\Documents\GitHub\learning-google-nlp\obj\Debug\netcoreapp2.0\GoogleNLP.dll
 C:\Users\lborlace\Documents\GitHub\learning-google-nlp\obj\Debug\netcoreapp2.0\GoogleNLP.pdb
+F:\Github\learning-google-nlp\bin\Debug\netcoreapp2.0\GoogleNLP.deps.json
+F:\Github\learning-google-nlp\bin\Debug\netcoreapp2.0\GoogleNLP.runtimeconfig.json
+F:\Github\learning-google-nlp\bin\Debug\netcoreapp2.0\GoogleNLP.runtimeconfig.dev.json
+F:\Github\learning-google-nlp\bin\Debug\netcoreapp2.0\GoogleNLP.dll
+F:\Github\learning-google-nlp\bin\Debug\netcoreapp2.0\GoogleNLP.pdb
+F:\Github\learning-google-nlp\obj\Debug\netcoreapp2.0\GoogleNLP.csprojAssemblyReference.cache
+F:\Github\learning-google-nlp\obj\Debug\netcoreapp2.0\GoogleNLP.csproj.CoreCompileInputs.cache
+F:\Github\learning-google-nlp\obj\Debug\netcoreapp2.0\GoogleNLP.AssemblyInfoInputs.cache
+F:\Github\learning-google-nlp\obj\Debug\netcoreapp2.0\GoogleNLP.AssemblyInfo.cs
+F:\Github\learning-google-nlp\obj\Debug\netcoreapp2.0\GoogleNLP.dll
+F:\Github\learning-google-nlp\obj\Debug\netcoreapp2.0\GoogleNLP.pdb

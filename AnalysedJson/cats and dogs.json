@@ -1,0 +1,32 @@
+[
+  {
+    "text": { "content": "cats" },
+    "partOfSpeech": {
+      "tag": "NOUN",
+      "number": "PLURAL"
+    },
+    "dependencyEdge": { "label": "ROOT" },
+    "lemma": "cat"
+  },
+  {
+    "text": {
+      "content": "and",
+      "beginOffset": 5
+    },
+    "partOfSpeech": { "tag": "CONJ" },
+    "dependencyEdge": { "label": "CC" },
+    "lemma": "and"
+  },
+  {
+    "text": {
+      "content": "dogs",
+      "beginOffset": 9
+    },
+    "partOfSpeech": {
+      "tag": "NOUN",
+      "number": "PLURAL"
+    },
+    "dependencyEdge": { "label": "CONJ" },
+    "lemma": "dog"
+  }
+]

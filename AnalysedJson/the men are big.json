@@ -1,0 +1,54 @@
+﻿[
+  {
+    "text": { "content": "the" },
+    "partOfSpeech": { "tag": "DET" },
+    "dependencyEdge": {
+      "headTokenIndex": 1,
+      "label": "DET"
+    },
+    "lemma": "the"
+  },
+  {
+    "text": {
+      "content": "men",
+      "beginOffset": 4
+    },
+    "partOfSpeech": {
+      "tag": "NOUN",
+      "number": "PLURAL"
+    },
+    "dependencyEdge": {
+      "headTokenIndex": 2,
+      "label": "NSUBJ"
+    },
+    "lemma": "man"
+  },
+  {
+    "text": {
+      "content": "are",
+      "beginOffset": 8
+    },
+    "partOfSpeech": {
+      "tag": "VERB",
+      "mood": "INDICATIVE",
+      "tense": "PRESENT"
+    },
+    "dependencyEdge": {
+      "headTokenIndex": 2,
+      "label": "ROOT"
+    },
+    "lemma": "be"
+  },
+  {
+    "text": {
+      "content": "big",
+      "beginOffset": 12
+    },
+    "partOfSpeech": { "tag": "ADJ" },
+    "dependencyEdge": {
+      "headTokenIndex": 2,
+      "label": "ACOMP"
+    },
+    "lemma": "big"
+  }
+]

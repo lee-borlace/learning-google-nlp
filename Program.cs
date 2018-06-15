@@ -1,5 +1,6 @@
 ﻿using Google.Cloud.Language.V1;
 using System;
+using System.IO;
 
 namespace GoogleNLP
 {
@@ -9,11 +10,12 @@ namespace GoogleNLP
         {
             var client = LanguageServiceClient.Create();
 
+            // Loop through input, generating output JSON files.
             while (true)
             {
-                Console.Write("Input>");
+                Console.Write("Input >");
 
-                var text = Console.ReadLine();
+                var text = Console.ReadLine().Trim();
 
                 var document = new Document()
                 {
@@ -23,10 +25,16 @@ namespace GoogleNLP
 
                 var response = client.AnalyzeSyntax(document);
 
-                Console.WriteLine(response.Tokens);
+                using (var writer = new StreamWriter($"..\\..\\..\\AnalysedJson\\{text}.json", false))
+                {
+                    writer.Write(response.Tokens);
+                }
+
+
             }
-
-
         }
+
+
+
     }
 }

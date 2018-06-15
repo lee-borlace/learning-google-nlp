@@ -1,0 +1,128 @@
+[
+  {
+    "text": { "content": "the" },
+    "partOfSpeech": { "tag": "DET" },
+    "dependencyEdge": {
+      "headTokenIndex": 1,
+      "label": "DET"
+    },
+    "lemma": "the"
+  },
+  {
+    "text": {
+      "content": "dog",
+      "beginOffset": 4
+    },
+    "partOfSpeech": {
+      "tag": "NOUN",
+      "number": "SINGULAR"
+    },
+    "dependencyEdge": {
+      "headTokenIndex": 2,
+      "label": "NSUBJ"
+    },
+    "lemma": "dog"
+  },
+  {
+    "text": {
+      "content": "is",
+      "beginOffset": 8
+    },
+    "partOfSpeech": {
+      "tag": "VERB",
+      "mood": "INDICATIVE",
+      "number": "SINGULAR",
+      "person": "THIRD",
+      "tense": "PRESENT"
+    },
+    "dependencyEdge": {
+      "headTokenIndex": 2,
+      "label": "ROOT"
+    },
+    "lemma": "be"
+  },
+  {
+    "text": {
+      "content": "brown",
+      "beginOffset": 11
+    },
+    "partOfSpeech": { "tag": "ADJ" },
+    "dependencyEdge": {
+      "headTokenIndex": 2,
+      "label": "ACOMP"
+    },
+    "lemma": "brown"
+  },
+  {
+    "text": {
+      "content": "and",
+      "beginOffset": 17
+    },
+    "partOfSpeech": { "tag": "CONJ" },
+    "dependencyEdge": {
+      "headTokenIndex": 2,
+      "label": "CC"
+    },
+    "lemma": "and"
+  },
+  {
+    "text": {
+      "content": "the",
+      "beginOffset": 21
+    },
+    "partOfSpeech": { "tag": "DET" },
+    "dependencyEdge": {
+      "headTokenIndex": 6,
+      "label": "DET"
+    },
+    "lemma": "the"
+  },
+  {
+    "text": {
+      "content": "cat",
+      "beginOffset": 25
+    },
+    "partOfSpeech": {
+      "tag": "NOUN",
+      "number": "SINGULAR"
+    },
+    "dependencyEdge": {
+      "headTokenIndex": 7,
+      "label": "NSUBJ"
+    },
+    "lemma": "cat"
+  },
+  {
+    "text": {
+      "content": "is",
+      "beginOffset": 29
+    },
+    "partOfSpeech": {
+      "tag": "VERB",
+      "mood": "INDICATIVE",
+      "number": "SINGULAR",
+      "person": "THIRD",
+      "tense": "PRESENT"
+    },
+    "dependencyEdge": {
+      "headTokenIndex": 2,
+      "label": "CONJ"
+    },
+    "lemma": "be"
+  },
+  {
+    "text": {
+      "content": "grey",
+      "beginOffset": 32
+    },
+    "partOfSpeech": {
+      "tag": "ADJ",
+      "number": "SINGULAR"
+    },
+    "dependencyEdge": {
+      "headTokenIndex": 7,
+      "label": "ACOMP"
+    },
+    "lemma": "grey"
+  }
+]

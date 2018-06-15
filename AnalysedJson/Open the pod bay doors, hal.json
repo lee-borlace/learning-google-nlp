@@ -1,0 +1,95 @@
+[
+  {
+    "text": { "content": "Open" },
+    "partOfSpeech": {
+      "tag": "VERB",
+      "mood": "IMPERATIVE"
+    },
+    "dependencyEdge": {
+      "headTokenIndex": 6,
+      "label": "DEP"
+    },
+    "lemma": "Open"
+  },
+  {
+    "text": {
+      "content": "the",
+      "beginOffset": 5
+    },
+    "partOfSpeech": { "tag": "DET" },
+    "dependencyEdge": {
+      "headTokenIndex": 4,
+      "label": "DET"
+    },
+    "lemma": "the"
+  },
+  {
+    "text": {
+      "content": "pod",
+      "beginOffset": 9
+    },
+    "partOfSpeech": {
+      "tag": "NOUN",
+      "number": "SINGULAR"
+    },
+    "dependencyEdge": {
+      "headTokenIndex": 3,
+      "label": "NN"
+    },
+    "lemma": "pod"
+  },
+  {
+    "text": {
+      "content": "bay",
+      "beginOffset": 13
+    },
+    "partOfSpeech": {
+      "tag": "NOUN",
+      "number": "SINGULAR"
+    },
+    "dependencyEdge": {
+      "headTokenIndex": 4,
+      "label": "NN"
+    },
+    "lemma": "bay"
+  },
+  {
+    "text": {
+      "content": "doors",
+      "beginOffset": 17
+    },
+    "partOfSpeech": {
+      "tag": "NOUN",
+      "number": "PLURAL"
+    },
+    "dependencyEdge": { "label": "DOBJ" },
+    "lemma": "door"
+  },
+  {
+    "text": {
+      "content": ",",
+      "beginOffset": 22
+    },
+    "partOfSpeech": { "tag": "PUNCT" },
+    "dependencyEdge": {
+      "headTokenIndex": 6,
+      "label": "P"
+    },
+    "lemma": ","
+  },
+  {
+    "text": {
+      "content": "hal",
+      "beginOffset": 24
+    },
+    "partOfSpeech": {
+      "tag": "NOUN",
+      "proper": "PROPER"
+    },
+    "dependencyEdge": {
+      "headTokenIndex": 6,
+      "label": "ROOT"
+    },
+    "lemma": "hal"
+  }
+]

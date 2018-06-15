@@ -5793,23 +5793,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\lborlace\\.nuget\\packages\\": {},
+    "C:\\Users\\lee\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lborlace\\Documents\\GitHub\\learning-google-nlp\\GoogleNLP.csproj",
+      "projectUniqueName": "F:\\Github\\learning-google-nlp\\GoogleNLP.csproj",
       "projectName": "GoogleNLP",
-      "projectPath": "C:\\Users\\lborlace\\Documents\\GitHub\\learning-google-nlp\\GoogleNLP.csproj",
-      "packagesPath": "C:\\Users\\lborlace\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lborlace\\Documents\\GitHub\\learning-google-nlp\\obj\\",
+      "projectPath": "F:\\Github\\learning-google-nlp\\GoogleNLP.csproj",
+      "packagesPath": "C:\\Users\\lee\\.nuget\\packages\\",
+      "outputPath": "F:\\Github\\learning-google-nlp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\lborlace\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\lee\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
