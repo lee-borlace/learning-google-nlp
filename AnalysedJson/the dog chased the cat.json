@@ -1,0 +1,71 @@
+﻿{
+  [
+    {
+      "text": { "content": "the" },
+      "partOfSpeech": { "tag": "DET" },
+      "dependencyEdge": {
+        "headTokenIndex": 1,
+        "label": "DET"
+      },
+      "lemma": "the"
+    },
+    {
+      "text": {
+        "content": "dog",
+        "beginOffset": 4
+      },
+      "partOfSpeech": {
+        "tag": "NOUN",
+        "number": "SINGULAR"
+      },
+      "dependencyEdge": {
+        "headTokenIndex": 2,
+        "label": "NSUBJ"
+      },
+      "lemma": "dog"
+    },
+    {
+      "text": {
+        "content": "chased",
+        "beginOffset": 8
+      },
+      "partOfSpeech": {
+        "tag": "VERB",
+        "mood": "INDICATIVE",
+        "tense": "PAST"
+      },
+      "dependencyEdge": {
+        "headTokenIndex": 2,
+        "label": "ROOT"
+      },
+      "lemma": "chase"
+    },
+    {
+      "text": {
+        "content": "the",
+        "beginOffset": 15
+      },
+      "partOfSpeech": { "tag": "DET" },
+      "dependencyEdge": {
+        "headTokenIndex": 4,
+        "label": "DET"
+      },
+      "lemma": "the"
+    },
+    {
+      "text": {
+        "content": "cat",
+        "beginOffset": 19
+      },
+      "partOfSpeech": {
+        "tag": "NOUN",
+        "number": "SINGULAR"
+      },
+      "dependencyEdge": {
+        "headTokenIndex": 2,
+        "label": "DOBJ"
+      },
+      "lemma": "cat"
+    }
+  ]
+}

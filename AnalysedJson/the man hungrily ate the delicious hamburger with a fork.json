@@ -1,0 +1,134 @@
+﻿{
+  [
+    {
+      "text": { "content": "the" },
+      "partOfSpeech": { "tag": "DET" },
+      "dependencyEdge": {
+        "headTokenIndex": 1,
+        "label": "DET"
+      },
+      "lemma": "the"
+    },
+    {
+      "text": {
+        "content": "man",
+        "beginOffset": 4
+      },
+      "partOfSpeech": {
+        "tag": "NOUN",
+        "number": "SINGULAR"
+      },
+      "dependencyEdge": {
+        "headTokenIndex": 3,
+        "label": "NSUBJ"
+      },
+      "lemma": "man"
+    },
+    {
+      "text": {
+        "content": "hungrily",
+        "beginOffset": 8
+      },
+      "partOfSpeech": { "tag": "ADV" },
+      "dependencyEdge": {
+        "headTokenIndex": 3,
+        "label": "ADVMOD"
+      },
+      "lemma": "hungrily"
+    },
+    {
+      "text": {
+        "content": "ate",
+        "beginOffset": 17
+      },
+      "partOfSpeech": {
+        "tag": "VERB",
+        "mood": "INDICATIVE",
+        "tense": "PAST"
+      },
+      "dependencyEdge": {
+        "headTokenIndex": 3,
+        "label": "ROOT"
+      },
+      "lemma": "eat"
+    },
+    {
+      "text": {
+        "content": "the",
+        "beginOffset": 21
+      },
+      "partOfSpeech": { "tag": "DET" },
+      "dependencyEdge": {
+        "headTokenIndex": 6,
+        "label": "DET"
+      },
+      "lemma": "the"
+    },
+    {
+      "text": {
+        "content": "delicious",
+        "beginOffset": 25
+      },
+      "partOfSpeech": { "tag": "ADJ" },
+      "dependencyEdge": {
+        "headTokenIndex": 6,
+        "label": "AMOD"
+      },
+      "lemma": "delicious"
+    },
+    {
+      "text": {
+        "content": "hamburger",
+        "beginOffset": 35
+      },
+      "partOfSpeech": {
+        "tag": "NOUN",
+        "number": "SINGULAR"
+      },
+      "dependencyEdge": {
+        "headTokenIndex": 3,
+        "label": "DOBJ"
+      },
+      "lemma": "hamburger"
+    },
+    {
+      "text": {
+        "content": "with",
+        "beginOffset": 45
+      },
+      "partOfSpeech": { "tag": "ADP" },
+      "dependencyEdge": {
+        "headTokenIndex": 3,
+        "label": "PREP"
+      },
+      "lemma": "with"
+    },
+    {
+      "text": {
+        "content": "a",
+        "beginOffset": 50
+      },
+      "partOfSpeech": { "tag": "DET" },
+      "dependencyEdge": {
+        "headTokenIndex": 9,
+        "label": "DET"
+      },
+      "lemma": "a"
+    },
+    {
+      "text": {
+        "content": "fork",
+        "beginOffset": 52
+      },
+      "partOfSpeech": {
+        "tag": "NOUN",
+        "number": "SINGULAR"
+      },
+      "dependencyEdge": {
+        "headTokenIndex": 7,
+        "label": "POBJ"
+      },
+      "lemma": "fork"
+    }
+  ]
+}
